@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloLollipop</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="material_design_show">Material Design Show</string>
+    <string name="shadows_introduce">影响z轴的有两个因素：elevation和transitionZ。触觉反馈物理边界使用outline属性设置。</string>
+</resources>
